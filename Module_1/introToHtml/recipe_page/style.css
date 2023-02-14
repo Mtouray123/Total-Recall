@@ -1,0 +1,23 @@
+body{
+    background-color: lightgreen;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 75px;
+    padding: 15px;
+    color:yellow
+    
+}
+section div{
+    text-align: center;
+}
+#ingredients {
+    padding: 15px;
+    margin:
+    background-color: yellow;
+}
+img{
+    border: dotted black
+}
