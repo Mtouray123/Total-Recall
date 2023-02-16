@@ -488,3 +488,7 @@ const cat2 = {
 	breed: "Lion",
 	age: 50,
 }
+
+function combineCats(mama, papa) {
+	
+}
